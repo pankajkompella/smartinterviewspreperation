@@ -1,3 +1,7 @@
+"""program to find number of trailing zeros in factorial of given number:
+https://www.purplemath.com/modules/factzero.htm"""
+
+
 t=int(input())
 for _ in range(t):
     n=int(input())
