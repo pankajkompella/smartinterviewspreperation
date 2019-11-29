@@ -11,3 +11,5 @@ for _ in range(t):
         p+=n//i
         i*=5
     print(p)
+
+    
