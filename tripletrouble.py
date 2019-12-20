@@ -14,3 +14,4 @@ for _ in range(t):
             ans=ans+(1<<i);
     print(ans)
     """every element occurs three times, except one element, which occurs only once. Find the element that occurs only once."""
+ 
